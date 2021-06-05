@@ -1,4 +1,7 @@
 <a href="{{route('jenis-buku.create')}}" class="button button-hijau">Add Data</a>
+<input type="text" name="jenis" placeholder="Cari Data..">
+
+<button type="submit" value="Submit">Cari</button>
 <table border="1" width="100%">
 <tr>
             <th>No.</th>
